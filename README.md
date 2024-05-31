@@ -59,6 +59,6 @@ Before you begin, ensure you have the following installed:
 
 The script will fill out the form, submit it, take a screenshot of the confirmation page, and send an email with the screenshot attached.
 
-##License
+## License
 
 This project is licensed under the MIT License.
